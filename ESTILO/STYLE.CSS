@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: blueviolet;
+    background-color: rgb(16, 19, 231);
 
 }
 
@@ -30,6 +30,11 @@ h2 {
 h3 {
     font-size: 1.5em;
     color: rgb( red, green, blue)
+}
+
+h4 {
+    font-size: 1.5em;
+    color: rgb( rgb(253, 1, 1);
 }
 
 a {
